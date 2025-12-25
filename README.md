@@ -30,19 +30,13 @@ Perfect for beginners learning Flutter state management, or for devs bootstrappi
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/1.png" width="220"/>
-  <img src="assets/images/2.png" width="220"/>
-  <img src="assets/images/3.png" width="220"/>
-</p>
-
-<p align="center">
-  <img src="assets/images/4.png" width="220"/>
-  <img src="assets/images/5.png" width="220"/>
-  <img src="assets/images/6.png"/>
-</p>
-
-<p align="center">
-  <img src="assets/images/7.png" width="220"/>
+  <img src="assets/images/1.png" width="180"/>
+  <img src="assets/images/2.png" width="180"/>
+  <img src="assets/images/3.png" width="180"/>
+  <img src="assets/images/4.png" width="180"/>
+  <img src="assets/images/5.png" width="180"/>
+  <img src="assets/images/6.png" width="180"/>
+  <img src="assets/images/7.png" width="180"/>
 </p>
 
 
