@@ -29,7 +29,20 @@ Perfect for beginners learning Flutter state management, or for devs bootstrappi
 
 ## 📸 Screenshots
 
-| Login Screen                                      | Home Screen                                      | Profile Screen                                      |
-|---------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|
-| <img src="assets/screens/login.png" width="260"/> | <img src="assets/screens/home.png" width="260"/> | <img src="assets/screens/profile.png" width="260"/> |
+<p align="center">
+  <img src="assets/images/1.png" width="220"/>
+  <img src="assets/images/2.png" width="220"/>
+  <img src="assets/images/3.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/4.png" width="220"/>
+  <img src="assets/images/5.png" width="220"/>
+  <img src="assets/images/6.png"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/7.png" width="220"/>
+</p>
+
 
