@@ -1,4 +1,4 @@
-# 🛍️ Connectify
+# Connectify
 
 A clean & modern Flutter demo app showcasing authentication, secure storage, state management with *
 *Provider**.
